@@ -1,0 +1,8 @@
+technologies used -->
+
+
+IDE-> Android Studio ,
+
+Language -> Kotlin
+
+Technology -> Jetpack compose
